@@ -18,13 +18,18 @@ This interactive **Power BI dashboard** provides a deep dive into **Netflix’s 
 
 ## 📊 **Dashboard Screenshots**  
 📌 **Main Dashboard View:**  
- 
+
+ ![Screenshot 2025-03-23 024018](https://github.com/user-attachments/assets/7a287a99-71cf-4794-9a24-f44814339450)
 
 📌 **Interactive Filters & Trends:**  
-  
+
+  ![Screenshot 2025-03-23 024222](https://github.com/user-attachments/assets/a54507f1-8334-44cc-bb4f-32aae676baa7)
 
 📌 **Geographical Insights:**  
+
+  ![Screenshot 2025-03-23 024530](https://github.com/user-attachments/assets/f828d121-ac55-4a3e-8a94-30b7a5578088)
   
+  ![Screenshot 2025-03-23 024428](https://github.com/user-attachments/assets/a763c372-76ac-4ef1-8d22-8a4d1e4586a2)
 
 ---
 
